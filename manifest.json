@@ -1,0 +1,11 @@
+{
+	"id": "thought-survey",
+	"name": "Thought Survey",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "Azal Amer",
+	"authorUrl": "https://azalamer.com",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
